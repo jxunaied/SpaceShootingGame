@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1488542885 source:c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489829479 source:c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks_1\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1392007564 c:\users\imtiaz\downloads\file system assignment\assignment 1\opengl_codeblocks_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1518359888 source:d:\uiu\graphics lab\assignment 1\opengl_codeblocks_1\graphics lab 5 task 1 bouncing ball.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+
+1392007564 d:\uiu\graphics lab\assignment 1\opengl_codeblocks_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1518503243 source:d:\uiu\openglproject\graphics lab 1 task 1 2d rectangle triangle.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\uiu\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1518503689 source:d:\uiu\openglproject\1205040.cpp
+	"bitmap_image.hpp"
+	<iostream>
+	<vector>
+
+1492200750 d:\uiu\openglproject\opengl\include\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1518970814 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\texture.cpp
+	<bits/stdc++.h>
+	"glut.h"
+	"bitmap_image.hpp"
+
+1392007564 d:\uiu\computer_graphics_laboratory_csi_422\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1492200750 d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1519051690 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\graphics lab 2 online 1 2d house.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519060045 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\graphics_first.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519101405 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\src\graphics_second.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1519660752 source:d:\uiu\computer_graphics_laboratory_csi_422\openglproject\graphics_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1526358980 source:g:\graphics-project\openglproject\project.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<windows.h>
+	<Mmsystem.h>
+	<glut.h>
+
+1392007564 g:\graphics-project\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526358980 source:f:\graphics-project\openglproject\project.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<windows.h>
+	<Mmsystem.h>
+	<glut.h>
+
+1392007564 f:\graphics-project\openglproject\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
